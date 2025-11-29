@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there! I'm Popper
 
-<!--
-**SillyAlexX/SillyAlexX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I build hardware projects & want to get into content creation 🔧🎥
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="assets/bongo-cat-kitty.gif" alt="Bongo Cat" width="280"/>
+</p>
+
+
+## 🚀 About Me
+- 💻 I enjoy working with **Hardware projects**
+- 💻 I want to get into content creation
+
+---
+
+## 🛠️ Skills
+
+| Category | Tools |
+|----------|-------|
+| Languages | C#, Javascript |
+| Frameworks |  Node.js |
+| Tools | Git |
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| Popes macro pad | first project for hackclub | [Repo Link](https://github.com/SillyAlexX/FsOptimizer) |
+| FsOptimizer | A Fusion server optimizer/level reloader for BONELAB | [Repo Link](https://github.com/SillyAlexX/FsOptimizer) |
+
+---
+
+⭐ *Thanks for visiting! Feel free to check out my repositories and drop a ⭐ if you like anything!*
