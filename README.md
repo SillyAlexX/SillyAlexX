@@ -20,7 +20,7 @@
 |----------|-------|
 | Languages | C#, Javascript |
 | Frameworks |  Node.js |
-| Tools | Git |
+| Tools | Git, Visual Studio Code, Visual Studio, Fusion360 |
 
 ---
 
